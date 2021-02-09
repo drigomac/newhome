@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-image: url(/web/img/appDev/rodrigo/Chill.jpg);
+                background-color: #eeeeeed3;
+                background-clip: inherit;
+                }
+        </style>
+    </head>
+    <body>
+        <h1 style="font-size:30px;color:rgba(12, 111, 124, 0.199);background-color: transparent;">Thankful
+        </h1>
+        <p>Do you love the road?</p>
+        <blockquote>The open road, the sounds, wind, visual.. What more does one need to feel alive? Nothing
+            or no one to bother you.. just the wide open road..
+        </blockquote>>
+    </body>  
+</html>
+
