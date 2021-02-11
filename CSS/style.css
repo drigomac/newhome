@@ -1,0 +1,14 @@
+body {
+    font-size: 30px;
+    padding: 30px;
+}
+.background{
+     background: url("../newhome/FrankDiaz.jpeg");
+      background-size: cover;
+      background-repeat:no-repeat;
+      
+      left: 0px;
+      right:0px;
+      top:0px;
+      bottom:0px;
+}
